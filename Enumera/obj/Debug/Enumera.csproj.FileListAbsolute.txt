@@ -1,0 +1,6 @@
+/Users/weixupeng/Desktop/众生平等/Enumera/Enumera/bin/Debug/Enumera.exe
+/Users/weixupeng/Desktop/众生平等/Enumera/Enumera/bin/Debug/Enumera.pdb
+/Users/weixupeng/Desktop/众生平等/Enumera/Enumera/obj/Debug/Enumera.csprojAssemblyReference.cache
+/Users/weixupeng/Desktop/众生平等/Enumera/Enumera/obj/Debug/Enumera.csproj.CoreCompileInputs.cache
+/Users/weixupeng/Desktop/众生平等/Enumera/Enumera/obj/Debug/Enumera.exe
+/Users/weixupeng/Desktop/众生平等/Enumera/Enumera/obj/Debug/Enumera.pdb
