@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "人员周岁项目", "人员周岁项目\人员周岁项目.csproj", "{09DAB99D-47DF-44C4-A25D-4959AB8F1FA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09DAB99D-47DF-44C4-A25D-4959AB8F1FA1}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{09DAB99D-47DF-44C4-A25D-4959AB8F1FA1}.Debug|anycpu.Build.0 = Debug|anycpu
+		{09DAB99D-47DF-44C4-A25D-4959AB8F1FA1}.Release|anycpu.ActiveCfg = Release|anycpu
+		{09DAB99D-47DF-44C4-A25D-4959AB8F1FA1}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
