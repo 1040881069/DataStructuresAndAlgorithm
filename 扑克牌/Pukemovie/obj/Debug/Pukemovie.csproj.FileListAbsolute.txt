@@ -1,0 +1,5 @@
+/Users/weixupeng/Desktop/众生平等/Pukemovie/Pukemovie/obj/Debug/Pukemovie.csprojAssemblyReference.cache
+/Users/weixupeng/Desktop/众生平等/Pukemovie/Pukemovie/bin/Debug/Pukemovie.exe
+/Users/weixupeng/Desktop/众生平等/Pukemovie/Pukemovie/bin/Debug/Pukemovie.pdb
+/Users/weixupeng/Desktop/众生平等/Pukemovie/Pukemovie/obj/Debug/Pukemovie.exe
+/Users/weixupeng/Desktop/众生平等/Pukemovie/Pukemovie/obj/Debug/Pukemovie.pdb
