@@ -1,0 +1,6 @@
+/Users/weixupeng/Desktop/众生平等/字典集合元素/bin/Debug/CDS006.IDictionaryDemo.exe.config
+/Users/weixupeng/Desktop/众生平等/字典集合元素/bin/Debug/CDS006.IDictionaryDemo.exe
+/Users/weixupeng/Desktop/众生平等/字典集合元素/bin/Debug/CDS006.IDictionaryDemo.pdb
+/Users/weixupeng/Desktop/众生平等/字典集合元素/obj/Debug/CDS006.IDictionaryDemo.csprojAssemblyReference.cache
+/Users/weixupeng/Desktop/众生平等/字典集合元素/obj/Debug/CDS006.IDictionaryDemo.exe
+/Users/weixupeng/Desktop/众生平等/字典集合元素/obj/Debug/CDS006.IDictionaryDemo.pdb
