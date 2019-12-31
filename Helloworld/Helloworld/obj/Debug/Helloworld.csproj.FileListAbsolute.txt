@@ -1,0 +1,5 @@
+/Users/weixupeng/Desktop/众生平等/Helloworld/Helloworld/bin/Debug/Helloworld.exe
+/Users/weixupeng/Desktop/众生平等/Helloworld/Helloworld/bin/Debug/Helloworld.pdb
+/Users/weixupeng/Desktop/众生平等/Helloworld/Helloworld/obj/Debug/Helloworld.csprojAssemblyReference.cache
+/Users/weixupeng/Desktop/众生平等/Helloworld/Helloworld/obj/Debug/Helloworld.exe
+/Users/weixupeng/Desktop/众生平等/Helloworld/Helloworld/obj/Debug/Helloworld.pdb
